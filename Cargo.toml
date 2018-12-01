@@ -9,7 +9,7 @@ name = "ash_vma"
 path = "src/lib.rs"
 
 [dependencies]
-ash = "0.26"
+ash = "0.26.2"
 
 [build-dependencies]
 cc = "1"
